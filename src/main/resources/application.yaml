@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: mass-mail-sending
+  mail:
+    port: 587
+    host: smtp.gmail.com
+    password: bpyxineguigpgotl
+    username: frankmwangi8118@gmail.com
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+
+
